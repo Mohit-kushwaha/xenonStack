@@ -34,7 +34,7 @@ function ContactPage()
     return (
         <div className="login-page">
             <form onSubmit={SubmitHandler}>
-                <h2>FeedBack Form</h2>
+                <h2>Contact Us</h2>
                 <input type="text" name="name" required
                     placeholder="Name" value={user.name} onChange={onChangeInput} />
 
