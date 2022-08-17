@@ -1,40 +1,40 @@
-﻿MERN Stack - Ecommerce
+﻿# MERN Stack - Ecommerce
 
-Ecommerce website built with the MERN stack with React Context API for state management, pure CSS for style
+> Ecommerce website built with the MERN stack with React Context API for state management, pure CSS for style
 
-Demo: https://ecobacke.herokuapp.com/
+## Demo: https://ecobacke.herokuapp.com/
 
-Author: Mohit Kushwaha
+## Author: Mohit Kushwaha
 
-Install dependencies for server
+## Install dependencies for server
 
-npm install
+### `npm install`
 
-Install dependencies for client
+## Install dependencies for client
 
-cd client ---> npm install
+### cd client ---> `npm install`
 
-Connect to your mongodb and add info in .env
+## Connect to your mongodb and add info in .env
 
-Add your paypal client id in client/src/components/mainpages/cart/PaypalButton.js
+## Add your paypal client id in client/src/components/mainpages/cart/PaypalButton.js
 
-Run the client & server with concurrently
+## Run the client & server with concurrently
 
-npm run dev
+### `npm run dev`
 
-Run the Express server only
+## Run the Express server only
 
-npm run server
+### `npm run server`
 
-Run the React client only
+## Run the React client only
 
-npm run client
+### `npm run client`
 
-Server runs on http://localhost:5000 and client on http://localhost:3000
+### Server runs on http://localhost:5000 and client on http://localhost:3000
 
-`               `**Welcome To Apni Dukan**
+` `**Welcome To Apni Dukan**
 
-**This is Landing Page** 
+**This is Landing Page**
 
 ![](Aspose.Words.a48e1aec-a488-4516-a26a-f294a3b79b68.001.jpeg)
 
@@ -42,7 +42,7 @@ It has Some Validation like no can buy or add to cart without login
 
 ![](Aspose.Words.a48e1aec-a488-4516-a26a-f294a3b79b68.002.jpeg)
 
-It will throw the above error If someone tries to do so. 
+It will throw the above error If someone tries to do so.
 
 After that we have view button which lead us to description and related Products
 
@@ -68,10 +68,6 @@ After that we have view button which lead us to description and related Products
 
 ![](Aspose.Words.a48e1aec-a488-4516-a26a-f294a3b79b68.008.jpeg)
 
-
-
-
-
-**This is our Contact Page** 
+**This is our Contact Page**
 
 ![](Aspose.Words.a48e1aec-a488-4516-a26a-f294a3b79b68.009.jpeg)
